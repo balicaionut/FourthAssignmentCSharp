@@ -1,0 +1,6 @@
+C:\Users\balic\source\repos\FourthAssignmentCSharp\FourthAssignmentCSharp\bin\Debug\FourthAssignmentCSharp.exe.config
+C:\Users\balic\source\repos\FourthAssignmentCSharp\FourthAssignmentCSharp\bin\Debug\FourthAssignmentCSharp.exe
+C:\Users\balic\source\repos\FourthAssignmentCSharp\FourthAssignmentCSharp\bin\Debug\FourthAssignmentCSharp.pdb
+C:\Users\balic\source\repos\FourthAssignmentCSharp\FourthAssignmentCSharp\obj\Debug\FourthAssignmentCSharp.csprojAssemblyReference.cache
+C:\Users\balic\source\repos\FourthAssignmentCSharp\FourthAssignmentCSharp\obj\Debug\FourthAssignmentCSharp.exe
+C:\Users\balic\source\repos\FourthAssignmentCSharp\FourthAssignmentCSharp\obj\Debug\FourthAssignmentCSharp.pdb
