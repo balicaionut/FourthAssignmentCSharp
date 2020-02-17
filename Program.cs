@@ -18,7 +18,7 @@ namespace FourthAssignmentCSharp
 
             Animal animal1 = new Animal();
             animal1.typeAnimal = "dog";
-            animal1.color = "brwn";
+            animal1.color = "brown";
             animal1.age = 3;
             Console.WriteLine();
             Console.WriteLine("Type: " + animal1.typeAnimal + "\nColor: " + animal1.color + "\nAge: " + animal1.age);
@@ -79,7 +79,7 @@ namespace FourthAssignmentCSharp
             Console.WriteLine($"and it lives in the {house2.noFloors} floors fancy {house2.typeHouse}.");
             Console.WriteLine();
             Console.WriteLine($"But the poor little {animal3.color} {animal3.typeAnimal}");
-            Console.WriteLine($"lives in a humbel {house3.typeHouse}.");
+            Console.WriteLine($"lives in a humble {house3.typeHouse}.");
             Console.WriteLine();
 
             Console.WriteLine("Press any key to exit!");
